@@ -1,0 +1,4 @@
+#Sun Dec 24 12:56:00 ICT 2023
+base.0=D\:\\4. Flutter\\flutter-ecommerce\\flutter_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
